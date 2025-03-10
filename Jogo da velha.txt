@@ -1,5 +1,5 @@
 JOGO DA VELHA
 
 _O_|_O_|_X_
-_X_|_O_|_O_
- O | X | X 
+_X_|_X_|_O_
+ X | X | X 
